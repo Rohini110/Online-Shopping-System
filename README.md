@@ -21,3 +21,15 @@ Functional Requirements:
     •	Flask : A micro-web framework for Python
     •	MySQL : Database at the backend
     •	HTML, CSS, Bootstrap : For user interface
+# Admin Features : 
+                  Can add Products
+                  Add Delivery Executive
+                  Able to see all the data
+                  Can see products , customers and delivery executive info
+# Customer Features :
+                    Can See and Update his Profile
+                    See his orders and shop.
+                    
+# Delivery Executive Features : 
+                    Can see the address of Customer to deliver particular product.
+     
