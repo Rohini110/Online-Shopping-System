@@ -1,4 +1,10 @@
-# Online-Shopping-System
+# Project Name :  Online-Shopping-System
+
+# Hosted on : https://github.com/Rohini110/Online-Shopping-System
+
+# Members
+1. Rohini Bhongade - 111803143
+2. Arpita Bhagat - 111803152
 
 E-commerce (electronic commerce or EC) is the buying and selling of goods and services, or the transmitting of funds or data, over an electronic network, primarily the internet. These business transactions occur either as business-to-business, business-to consumer, consumer-to-consumer or consumer-to-business.
 
@@ -31,4 +37,12 @@ Functional Requirements:
  2. See his orders and shop.                
 # Delivery Executive Features : 
  Can see the address of Customer to deliver particular product.
+
+# Installation Guide
+1. Download the file and extract it.
+2. import all necessary libraries.
+3. Start xampp apache and mysql server
+4. open terminal and write : python app.py
+5. open chrome tab and put the url. 
+    url : localhost:5000
      
