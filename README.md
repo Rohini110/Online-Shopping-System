@@ -1,8 +1,8 @@
 # Project Name :  Online-Shopping-System
 
-## Hosted on : https://github.com/Rohini110/Online-Shopping-System
+### Hosted on : https://github.com/Rohini110/Online-Shopping-System
 
-# Members
+### Members
 1. Rohini Bhongade - 111803143
 2. Arpita Bhagat - 111803152
 
@@ -22,23 +22,23 @@ Functional Requirements:
 
 •	Profile : After the customer/delivery executive is logged in his information will be shown. 
 
-# Technologies used :
+### Technologies used :
 
     •	Flask : A micro-web framework for Python
     •	MySQL : Database at the backend
     •	HTML, CSS, Bootstrap : For user interface
-# Admin Features 
+### Admin Features 
 1. Can add Products
 2. Add Delivery Executive
 3. Able to see all the data
 4. Can see products , customers and delivery executive info
-# Customer Features :
+### Customer Features :
  1. Can See and Update his Profile
  2. See his orders and shop.                
-# Delivery Executive Features : 
+### Delivery Executive Features : 
  Can see the address of Customer to deliver particular product.
 
-# Installation Guide
+### Installation Guide
 1. Download the file and extract it.
 2. import all necessary libraries.
 3. Start xampp apache and mysql server
